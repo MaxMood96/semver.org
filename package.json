@@ -32,7 +32,7 @@
     "remark-cli": "^11.0.0",
     "remark-frontmatter": "^2.0.0",
     "remark-lint-mdash-style": "^1.1.1",
-    "remark-preset-lint-node": "^1.16.0",
+    "remark-preset-lint-node": "^1.17.1",
     "semver": "^7.3.2"
   }
 }
