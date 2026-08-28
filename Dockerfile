@@ -1,7 +1,7 @@
 # Copyright (C) 2019 Sebastian Pipping <sebastian@pipping.org>
 # Licensed under the MIT license
 
-FROM ruby:stretch
+FROM ruby:2.6-stretch
 
 ENV LC_ALL=C.UTF-8
 ENV LANG=en_US.UTF-8
